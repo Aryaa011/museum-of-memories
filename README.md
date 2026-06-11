@@ -8,7 +8,7 @@ A fully walkable 3D museum built in a single HTML file. Walk through personal ar
 
 ## ✦ Live Demo
 
-https://museumofmemories.netlify.app
+https://museumm2026.netlify.app
 
 ---
 
